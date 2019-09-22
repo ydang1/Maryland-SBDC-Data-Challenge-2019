@@ -116,6 +116,14 @@ plt.ylabel('frequencies')
 3. Consulting imapcts in terms of Business development:
 ![](presentation/tableau%20line%20graph.png)
 
+# Contribution
+
+- Exploring the data in R and help team determines the variable types, generated statistic summary and distribution offer suggestions for feature selections.
+
+- Visualized the consulting impact based on different company categories by creating bar chart and line chart in tableau, discovered he pattern of consulting impacts on company capital investment, gross revenue.
+
+- Organized the support documents accordingly
+
 # Conclusion
 
 1. Companies which successfully start up the business spent average more than 14 hours on consulting than the pre-venture companies do. The more a company spends on consulting, the more likely the company will success.
