@@ -1,5 +1,5 @@
 # Project Title 
-This is a 4-person team project which works on a dataset provided by Maryland Small Business Development Center(SBDC), the goal of this project is to uncover factors that determine positive economic impact of business consulting which includes but not limits to:
+This is a 4-persons team project which works on a dataset provided by Maryland Small Business Development Center(SBDC), the goal of this project is to uncover factors that determine positive economic impact of business consulting which includes but not limits to:
 
 1. Which (if any) socio-demographic, geographical, and industry(NAICS code) characteristics of pre-venture business do predict successful business start? 
 
