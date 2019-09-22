@@ -11,17 +11,11 @@ from sklearn import preprocessing
 
 small_business=pd.read_csv('Maryland SBDC Data 4 UMD Data Challenge 2019.csv',sep=',',
                            header=0)
-
-np.mean(small_business.iloc[:,6])
-np.std(small_business.iloc[:,6])
-np.mean(small_business.iloc[:,7])
-np.std(small_business.iloc[:,7])
-np.mean(small_business.iloc[:,8])
-np.std(small_business.iloc[:,8])
-np.mean(small_business.iloc[:,10])
-np.std(small_business.iloc[:,10])
-np.mean(small_business.iloc[:,11])
-np.std(small_business.iloc[:,11])   
+a = [6,7,8,10]
+for i in a:
+  print('mean:', np.mean(small_business.iloc[:,i])
+  print()
+  print('stdev:', np.std(small_business.iloc[:,i])
 
 nan_row=small_business[small_business['Impact: Capital Investments'].isnull()]
 small_business.isnull().sum()
